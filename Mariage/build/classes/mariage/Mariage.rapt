@@ -1,0 +1,16 @@
+ma/projet/entities/MariageKey_.java
+ma/projet/entities/EmployeTacheKey_.java
+ma/projet/entities/LigneCommandeProduit_.java
+ma/projet/entities/Commande_.java
+ma/projet/entities/Client_.java
+ma/projet/entities/Projet_.java
+ma/projet/entities/EmployeTache_.java
+ma/projet/entities/Categorie_.java
+ma/projet/entities/Personne_.java
+ma/projet/entities/Produit_.java
+ma/projet/entities/Mariage_.java
+ma/projet/entities/Tache_.java
+ma/projet/entities/LigneCommandeProduitKey_.java
+ma/projet/entities/Femme_.java
+ma/projet/entities/Homme_.java
+ma/projet/entities/Employe_.java
