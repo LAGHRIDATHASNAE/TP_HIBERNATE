@@ -6,7 +6,8 @@ Ex2)
 Ex3)
 Cet exercice a pour architecture:
 
-ma.projet--classes(Produit,Categorie,LigneCommandeProduit)
+ma.projet
+        |--classes(Produit,Categorie,LigneCommandeProduit)
         |--services(ProduitService,CategorieService,LigneCommandeProduitService)
         |--config(hibernate.cfg.xml)
         |--util(HibernateUtil)
@@ -16,7 +17,8 @@ ma.projet--classes(Produit,Categorie,LigneCommandeProduit)
 Ex3)
 Cet exercice a pour architecture:
 
-ma.projet--classes(Employe,Tache,EmployeTache,EmployeTacheKey,Projet)
+ma.projet
+        |--classes(Employe,Tache,EmployeTache,EmployeTacheKey,Projet)
         |--services(EmployeService,TacheService,EmployeTacheService,ProjetService)
         |--config(hibernate.cfg.xml)
         |--util(HibernateUtil)
@@ -25,7 +27,8 @@ ma.projet--classes(Employe,Tache,EmployeTache,EmployeTacheKey,Projet)
 Travail à Rendre)
 Cet exercice a pour architecture:
 
-ma.projet--classes(Personne,Homme,Femme,Mariage,MariageKey)
+ma.projet
+        |--classes(Personne,Homme,Femme,Mariage,MariageKey)
         |--services(PersonneService,HommeService,FemmeService,MariageService)
         |--config(hibernate.cfg.xml)
         |--util(HibernateUtil)
