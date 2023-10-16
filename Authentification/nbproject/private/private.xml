@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/src/java/ma/projet/util/HibernateUtil.java</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/web/inscriptionClient.jsp</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/src/java/ma/projet/entities/User.java</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/src/java/ma/projet/controllers/AuthentificationController.java</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/web/updatemotdepasse.jsp</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/src/java/ma/projet/controllers/DeconnexionController.java</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/src/java/ma/projet/test/Test.java</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/src/java/ma/projet/dao/IDao.java</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/src/java/ma/projet/controllers/ClientController.java</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/src/java/ma/projet/entities/SendMailTLS.java</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/web/updatepassword.jsp</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/web/authentification.jsp</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/web/welcome.jsp</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/web/index.html</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/src/java/ma/projet/entities/Client.java</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/web/Verificationn.jsp</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/src/java/ma/projet/services/ClientService.java</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/src/java/ma/projet/entities/Employe.java</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/src/java/ma/projet/config/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/src/java/ma/projet/controllers/ServiceClient.java</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/src/java/ma/projet/controllers/PasswordController.java</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/src/java/ma/projet/controllers/VerificationController.java</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/src/java/ma/projet/controllers/UpdatePasswordController.java</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/web/Commande.jsp</file>
+            <file>file:/C:/Users/lenovo/Documents/NetBeansProjects/Authentification/web/Verification.jsp</file>
+        </group>
+    </open-files>
+</project-private>
